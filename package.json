@@ -7,7 +7,7 @@
     "url": "https://github.com/Foxcapades"
   },
   "devDependencies": {
-    "@types/chrome": "0.0.96",
+    "@types/chrome": "0.0.97",
     "@types/lodash": "^4.14.149",
     "@types/node": "^13.7.4",
     "gulp": "^4.0.2",
