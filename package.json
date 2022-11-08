@@ -23,7 +23,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-minify": "^3.1.0",
     "gulp-replace": "^1.0.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "gulp-svelte": "github:Foxcapades/gulp-svelte#master",
     "gulp-terser": "^1.2.0",
     "gulp-typescript": "^6.0.0-alpha.1",
